@@ -3,7 +3,7 @@
 
 * Universidad: Escuela Colombiana de Ingeniería
 * Asignatura:  CVDS
-* Autor: Laura Valentina Rodríguez Ortegón-Juan Pablo Fernandez
+* Autor: Laura Valentina Rodríguez Ortegón-Juan Pablo Fernandez Gonzalez
 
 ### Maven
 
