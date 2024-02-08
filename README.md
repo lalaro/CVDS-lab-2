@@ -22,17 +22,20 @@ Necesitaremos de los siguientes parametros para la creación de nuestro proyecto
 * Id del Artefacto: Patterns
 * Paquete: edu.eci.cvds.patterns
 * archetypeArtifactId: maven-archetype-quickstart
+<img src="Image1.jpeg" alt="i1" width="700"/>
 
 ### Compilar y Ejecutar
 * Para compilar ejecute el comando:
 ```
 $ mvn -U package
 ```
+
+<img src="Image2.jpeg" alt="i2" width="700"/>
+
 * Para ejecutar el proyecto
 ```
 mvn exec:java -Dexec.mainClass="edu.eci.cvds.patterns.shapes.ShapeMain" -Dexec.args="Triangle"
 ```
 
-### Pruebas
-
+<img src="Image3.jpeg" alt="i3" width="700"/>
 
